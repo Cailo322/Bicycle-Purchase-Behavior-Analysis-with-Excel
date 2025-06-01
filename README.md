@@ -96,4 +96,5 @@ I created pivot tables and visual charts to answer key business questions:
 
 This project helped refine my skills in **data cleaning, analysis, and visualization** using Excel. I gained hands-on experience transforming raw customer data into clear insights through dashboards and charts. It reinforced the importance of understanding the data before analysis and communicating findings in a way that supports **effective decision-making**.
 
-You can explore the Excel workbook and dashboard included in this repository for a closer look at the methodology and results.
+You can explore the Excel workbook and dashboard 👉 [**here**](https://docs.google.com/spreadsheets/d/1BPeR_fmReHGwpHeaGkUIIgjxzk279ToDEj11RkXOILU/edit?usp=sharing) to view the Excel workbook and dashboard.
+for a closer look at the methodology and results.
