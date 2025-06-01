@@ -40,7 +40,7 @@ The raw data required several preprocessing steps to prepare it for meaningful a
 ### ✅ Age Bracketing
 To make the `Age` data more useful for analysis, I categorized each entry into defined age groups using the **IFS()** function:
 
-```excel
+`excel
 =IFS(
   L2 > 59, "Senior (60+)",
   L2 >= 45, "Older Adult (45–59)",
@@ -49,7 +49,7 @@ To make the `Age` data more useful for analysis, I categorized each entry into d
   L2 >= 0, "Child (0–17)",
   ISBLANK(L2), "No Data",
   TRUE, "Invalid Age"
-)
+)`
 
 ## 📊 Analysis via Pivot Tables
 
