@@ -65,10 +65,10 @@ I created pivot tables and visual charts to answer key business questions:
 ## 🔍 Key Insights
 
 - **Income & Gender**: Individuals who purchased bikes generally earn more, with a difference of approximately **$3,000–$4,000** compared to those who didn’t. Additionally, **males** are more likely to purchase bicycles than females.  
-  ![Income and Gender](./Outputs/Avg Income.png)
+ ![Income and Gender](./Outputs/Avg%20Income.png)
 
 - **Commute Distance**: Customers with a commute distance of **0–5 miles** had the highest bike purchase rates. The likelihood of purchasing a bike drops as commute distance increases beyond 5 miles.  
-  ![Commute Distance](./Outputs/Commute Distance.png)
+  ![Commute Distance](./Outputs/Commute%20Distance.png)
 
 - **Age Bracket**: The **Young Adult (25–44)** age group had the highest rate of bicycle purchases. **Senior (60+)** customers were the least likely to purchase.  
   ![Age Distribution](./Outputs/Age.png)
